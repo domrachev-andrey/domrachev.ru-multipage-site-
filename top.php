@@ -88,7 +88,17 @@
 				</ul>
 			</nav>
 			<div class="main-navigation-callback">
-				<p><a href="tel:+7(499)793-69-71">+7(499)793-69-71</a><br><a href="#">Заказать звонок</a></p>
+				<p><a href="tel:+7(499)793-69-71">+7(499)793-69-71</a><br>
+					<button onclick="document.getElementById('id01').style.display='flex'">Заказать звонок</button>
+					<div id="id01" class="modal">
+						<div class="modal-window">
+							<h1>Заказать звонок</h1>
+							<button onclick="document.getElementById('id01').style.display='none'" class="close" title="Закрыть">X</button>
+						</div>
+						<div class="overlay">
+						</div>	
+					</div>
+				</p>
 			</div>
 		</div>
 	</header>
