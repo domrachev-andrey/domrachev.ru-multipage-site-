@@ -28,6 +28,11 @@
 				modal.style.display = "none";
 			}
 		}
+
+		var link = document.querySelector(".sendorder");
+		link.addEventListener("click", function() {
+			console.log("Клик по кнопке");
+		});
 	</script>
 </body>
 </html>
