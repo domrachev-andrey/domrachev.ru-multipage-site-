@@ -29,10 +29,21 @@
 			}
 		}
 
-		var link = document.querySelector(".sendorder");
-		link.addEventListener("click", function() {
-			console.log("Клик по кнопке");
+		function func_js(){
+			var a = "<?php func_php(); ?>";
+		}
+
+		var link = document.querySelector(".formsendorder");
+		link.addEventListener("submit", function(event) {
+			event.preventDefault();
+			func_js();
+			console.log("Клик по кнопке submit");
 		});
 	</script>
+	<?php
+		function func_php(){
+			mail('1c@domrachev.ru', 'From site', 'From site');
+		}
+	?>	
 </body>
 </html>

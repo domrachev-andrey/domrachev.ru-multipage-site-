@@ -124,10 +124,12 @@ input[type=text]{
 *//*  background: #f1f1f1;
 */}
 
-
-textarea{
-	
+form{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
 }
+
 .modal .overlay{
 	position: absolute;
 	top: 0;
