@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="1С Франчайзи Домрачев консалтинг. Программы 1С, грамотное внедрение 1С, выгодное сопровождение 1С. Мы помогаем Вашему бизнеcу расти. Работаем со всеми регионами. +7(499)793-69-71. 1c@domrachev.ru">
 	<meta name="keywords" content="1C, 1c, 1С, 1с, 1C:Enterprise, 1С:Предприятие, 1C:Accounting, 1С:Бухгалтерия, внедрение 1с, внедрение, программирование 1с, программирование, сопровождение 1с, сопровождение, обновление 1с, обновление, ИТС, 1С:ИТС, 1C:Fresh, 1С:Фреш, настройка 1c, настройка, программисты 1с, программисты, аналитики 1с, аналитики, 1С:Франчайзи, 1C:Franchise, Франчайзи, Franchise, Домрачев консалтинг, Домрачев, консалтинг, Domrachev consulting, Domrachev, consulting, аутсорс программистов, подбор программистов">
-	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="https://domrachev.ru/styles.css">
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z60ZKXEM0W"></script>
 	<script>
@@ -35,7 +35,7 @@
 	<header class="main-header">
 		<div class="container">
 			<div class="main-navigation-logo">
-				<a href="#"><span class="main-navigation-logo-part1">1С Франчайзи</span><br>
+				<a href="https://domrachev.ru/"><span class="main-navigation-logo-part1">1С Франчайзи</span><br>
 				Домрачев консалтинг</a>
 			</div>
 			<nav class="main-navigation">
@@ -48,7 +48,7 @@
 									<li><a href="#">О компании</a></li>
 									<li><a href="#">Партнерам</a></li>
 									<li><a href="#">Вакансии</a></li>
-									<li><a href="#">Контакты</a></li>
+									<li><a href="https://domrachev.ru/contacts">Контакты</a></li>
 								</ul>	
 							</div>
 						</div>
@@ -60,7 +60,7 @@
 								<ul>
 									<li><a href="#">Внедрение 1С</a></li>
 									<li><a href="#">1С ИТС</a></li>
-									<li><a href="1cfresh">1С Фреш</a></li>
+									<li><a href="https://domrachev.ru/1cfresh">1С Фреш</a></li>
 									<li><a href="#">Обучение</a></li>
 									<li><a href="#">Регистрация ИП/ООО бесплатно</a></li>
 									<li><a href="#">Открытие расчетного счета</a></li>
