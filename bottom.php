@@ -30,7 +30,8 @@
 		}
 
 		function func_js(){
-			var a = "<?php func_php(); ?>";
+			var email = document.getElementById('email').value);
+			var a = "<?php func_php("+ email +"); ?>";
 		}
 
 		var link = document.querySelector(".formsendorder");
@@ -41,7 +42,7 @@
 		});
 	</script>
 	<?php
-		function func_php(){
+		function func_php($email){
 			mail('1c@domrachev.ru', 'From site', 'From site');
 		}
 	?>	

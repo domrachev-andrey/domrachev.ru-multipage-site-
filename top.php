@@ -96,7 +96,7 @@
 								<h1>Заказать звонок</h1>
 								<input type="text" placeholder="Ваше имя" name="name" required>
 								<input type="text" placeholder="Телефон" name="phone" required>
-								<input type="text" placeholder="E-mail" name="email" required>
+								<input id="email" type="text" placeholder="E-mail" name="email" required>
 								<textarea cols="5" rows="5" placeholder="Когда удобно? Опишите кратко вопросы, которые хотите обсудить" name="details" required></textarea>
 								<input type="checkbox" checked="checked">Согласен с обработкой персональных данных
 								<button type="submit" class="sendorder">Заказать звонок</button>
