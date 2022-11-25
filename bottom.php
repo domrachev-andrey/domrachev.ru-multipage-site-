@@ -43,8 +43,12 @@
 	<?php
 		function func_php(){
 			var_dump($_GET);
+			$name = $_GET['name'];
+			$phone = $_GET['phone'];
 			$email = $_GET['email'];
-			mail('1c@domrachev.ru', 'From site', $email);
+			$details = $_GET['details'];
+			$message = $name .'\n'. $phone .'\n'. $email .'\n'. $details;
+			mail('1c@domrachev.ru', 'From site', $message);
 		}
 	?>	
 </body>
