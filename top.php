@@ -83,7 +83,7 @@
 							</div>
 						</div>
 					</li>
-					<li><a href="#">Цены</a></li>
+					<li><a href="https://domrachev.ru/prices">Цены</a></li>
 					<li><a href="#">Статьи</a></li>
 				</ul>
 			</nav>
