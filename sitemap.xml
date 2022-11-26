@@ -12,9 +12,17 @@
 
    <url>
 
-      <loc>https://domrachev.ru/1cfresh/</loc>
+      <loc>https://domrachev.ru/about/</loc>
 
-      <lastmod>2022-11-13</lastmod>
+      <lastmod>2022-11-25</lastmod>
+
+   </url>
+
+   <url>
+
+      <loc>https://domrachev.ru/vacancies/</loc>
+
+      <lastmod>2022-11-25</lastmod>
 
    </url>
 
@@ -25,4 +33,14 @@
       <lastmod>2022-11-25</lastmod>
 
    </url>
+
+   <url>
+
+      <loc>https://domrachev.ru/1cfresh/</loc>
+
+      <lastmod>2022-11-13</lastmod>
+
+   </url>
+
+
 </urlset>

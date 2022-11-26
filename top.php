@@ -45,9 +45,9 @@
 							<a href="#">О компании</a>
 							<div class="dropdown-content">
 								<ul>
-									<li><a href="#">О компании</a></li>
+									<li><a href="https://domrachev.ru/about">О компании</a></li>
 									<li><a href="#">Партнерам</a></li>
-									<li><a href="#">Вакансии</a></li>
+									<li><a href="https://domrachev.ru/vacancies">Вакансии</a></li>
 									<li><a href="https://domrachev.ru/contacts">Контакты</a></li>
 								</ul>	
 							</div>

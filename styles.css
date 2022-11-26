@@ -43,6 +43,7 @@ body{
 
 .main-navigation-list li{
 	display: inline-block;
+	margin-bottom: 10px;
 }
 
 .main-navigation-list li a{
