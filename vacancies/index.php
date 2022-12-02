@@ -11,7 +11,7 @@
 				программисты по платформе 1С 8.3.
 			</p> 
 			<p>
-				Если ты являещемся таким, то высылай резюме в отдел кадров <a href="mailto:job@domrachev.ru">job@domrachev.ru</a>
+				Если ты являешься таким, то высылай резюме в отдел кадров <a href="mailto:job@domrachev.ru">job@domrachev.ru</a>
 			</p>
 		</div>
 	</main>
