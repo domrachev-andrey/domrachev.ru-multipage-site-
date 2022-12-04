@@ -62,6 +62,7 @@
 									<li><a href="#">1С ИТС</a></li>
 									<li><a href="https://domrachev.ru/1cfresh">1С Фреш</a></li>
 									<li><a href="#">Обучение</a></li>
+									<li><a href="https://domrachev.ru/support">Поддержка</a></li>
 									<!-- 
 									<li><a href="#">Регистрация ИП/ООО бесплатно</a></li>
 									<li><a href="#">Открытие расчетного счета</a></li>
