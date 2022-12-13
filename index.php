@@ -17,8 +17,8 @@
 		</div>	
 		<div class="index-item">		
 			<div class="index-item-left">
-				<img src="img/1citsm.png" alt="">
-				<p>1С ИТС</p>
+				<a href="its"><img src="img/1citsm.png" alt=""></a>
+				<a href="its"><p>1С ИТС</p></a>
 			</div>
 			<div class="index-item-right">
 				<a href="1cfresh"><img src="img/1cfresh.png" alt=""></a>

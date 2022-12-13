@@ -176,6 +176,11 @@ form{
 	height: 200px;
 }
 
+.index-item-left a{
+	text-decoration: none;
+	color: #000;
+}
+
 .index-item-right{
 	float: right;
 }
