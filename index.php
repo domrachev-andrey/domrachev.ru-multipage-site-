@@ -12,7 +12,7 @@
 			</div>
 			<div class="index-item-right">
 				<img src="img/fran1cp.png" alt="">
-				<p>Внедрение 1С</p>
+				<a href="implementation"><p>Внедрение 1С</p><a>
 			</div>
 		</div>	
 		<div class="index-item">		
