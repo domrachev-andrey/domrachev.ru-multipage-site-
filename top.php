@@ -58,7 +58,7 @@
 							<a href="#">Услуги</a>
 							<div class="dropdown-content">
 								<ul>
-									<li><a href="#">Внедрение 1С</a></li>
+									<li><a href="https://domrachev.ru/implementation">Внедрение 1С</a></li>
 									<li><a href="#">1С ИТС</a></li>
 									<li><a href="https://domrachev.ru/1cfresh">1С Фреш</a></li>
 									<li><a href="#">Обучение</a></li>
