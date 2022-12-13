@@ -11,8 +11,8 @@
 				<p>Программы 1С</p>
 			</div>
 			<div class="index-item-right">
-				<img src="img/fran1cp.png" alt="">
-				<a href="implementation"><p>Внедрение 1С</p><a>
+				<a href="implementation"><img src="img/fran1cp.png" alt=""></a>
+				<a href="implementation"><p>Внедрение 1С</p></a>
 			</div>
 		</div>	
 		<div class="index-item">		
