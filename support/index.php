@@ -6,7 +6,9 @@
 			<p>
 				Чтобы наши сотрудники могли подключиться к Вам и помочь, Вы можете скачать программу
 				для удаленного доступа к Вашему рабочему столу:<br>
-				<a href="https://remotedesktop.google.com/home">Chrome Remote Desktop</a> 
+				<a href="https://remotedesktop.google.com/home">Chrome Remote Desktop</a> <br>
+				или
+				<a href="https://anydesk.com/ru">AnyDesk</a>
 			</p> 
 			<p>
 				E-mail горячей линии <a href="mailto:hotline@domrachev.ru">hotline@domrachev.ru</a>
