@@ -7,8 +7,8 @@
 		</div>
 		<div class="index-item">		
 			<div class="index-item-left">
-				<img src="img/logo1cfm.png" alt="">
-				<p>Программы 1С</p>
+				<a href="soft"><img src="img/logo1cfm.png" alt=""></a>
+				<a href="soft"><p>Программы 1С</p></a>
 			</div>
 			<div class="index-item-right">
 				<a href="implementation"><img src="img/fran1cp.png" alt=""></a>

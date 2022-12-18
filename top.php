@@ -74,7 +74,7 @@
 					</li>
 					<li>
 						<div class="dropdown">
-							<a href="#">Продукты</a>
+							<a href="https://domrachev.ru/soft">Продукты</a>
 							<div class="dropdown-content">
 								<ul>
 									<li><a href="#">1С Управление торговлей</a></li>
