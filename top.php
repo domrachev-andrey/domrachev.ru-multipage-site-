@@ -79,7 +79,7 @@
 								<ul>
 									<li><a href="https://domrachev.ru/trade">1С Управление торговлей</a></li>
 									<li><a href="https://domrachev.ru/accounting">1С Бухгалтерия</a></li>
-									<li><a href="#">1С Зарплата и управление персоналом</a></li>
+									<li><a href="https://domrachev.ru/salary">1С Зарплата и управление персоналом</a></li>
 									<li><a href="#">1С Управление нашей фирмой</a></li>
 									<li><a href="#">1С Документооборот</a></li>
 								</ul>	
