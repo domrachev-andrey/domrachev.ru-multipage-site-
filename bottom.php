@@ -16,6 +16,7 @@
 				<p>Мы в социальных сетях<br>
 					<a href="https://vk.com/domrachev_consulting"><img img src="https://domrachev.ru/img/vk.png" alt=""></a>
 					<a href="https://www.youtube.com/@domrachevconsulting"><img img src="https://domrachev.ru/img/youtube.png" alt=""></a>
+					<a href="https://t.me/domrachev_consulting"><img img src="https://domrachev.ru/img/telegram.png" alt=""></a>
 				</p>	
 			</section>
 		</div>
