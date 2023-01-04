@@ -3,6 +3,8 @@
 ?>
 	<main class="container">
 		<div class="index-item">
+			<h3>Обучение программированию в 1С</h3>
+			<h4>Урок 1. Установка учебной версии 1С</h4>
 			<p>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/t41LIorFhwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 				</iframe>
