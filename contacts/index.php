@@ -34,10 +34,10 @@
 			<h3>Мы в социальных сетях</h3>
 			<p>
 				<a href="https://vk.com/domrachev_consulting">VK</a><br>
-				<a href="https://www.youtube.com/@domrachevconsulting">Yotube</a><br>
-				Rutube<br>
-				Дзен<br>
-				Telegram
+				<a href="https://www.youtube.com/@domrachevconsulting">Youtube</a><br>
+				<a href="https://rutube.ru/channel/29802794/">Rutube</a><br>
+				<a href="https://dzen.ru/domrachev_consulting">Дзен</a><br>
+				<a href="https://t.me/domrachev_consulting">Telegram</a>
 			</p>
 		</div>
 	</main>
