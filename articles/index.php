@@ -10,6 +10,7 @@
 			<p>
 				<a href="https://vk.com/video-217010365_456239018">VK</a>
 				<a href="https://rutube.ru/video/809c3023929f6948206164ba175c79f9/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63b577e87fc57c5d5d472409?share_to=link">Дзен</a>	
 			</p>
 		</div>
 	</main>
