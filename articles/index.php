@@ -31,8 +31,8 @@
 			</p>
 			<p>
 				<a href="https://vk.com/video-217010365_456239023">VK</a>
-				<a href="https://rutube.ru/video/b7cec40a3f3ab374f34ad20176cce5bf/">RuTube</a>
-				<a href="https://dzen.ru/video/watch/63bd762e491ee17bd9de6cc1?share_to=link">Дзен</a>	
+				<a href="https://rutube.ru/video/10aa46c55a1ee06421cac50d56e3d168/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63c19d4467ba7f28a736fd3c?share_to=link">Дзен</a>	
 			</p>
 		</div>
 	</main>
