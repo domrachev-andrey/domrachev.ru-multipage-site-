@@ -29,6 +29,11 @@
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/vweWD5Hs1v4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 				</iframe>
 			</p>
+			<p>
+				<a href="https://vk.com/video-217010365_456239023">VK</a>
+				<a href="https://rutube.ru/video/b7cec40a3f3ab374f34ad20176cce5bf/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63bd762e491ee17bd9de6cc1?share_to=link">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
