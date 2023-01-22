@@ -34,6 +34,16 @@
 				<a href="https://rutube.ru/video/10aa46c55a1ee06421cac50d56e3d168/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/63c19d4467ba7f28a736fd3c?share_to=link">Дзен</a>	
 			</p>
+			<h4>Урок 4. Переменные в 1С</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/eZMAE_nZH1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+				</iframe>
+			</p>
+			<p>
+				<a href="https://vk.com/video-217010365_456239023">VK</a>
+				<a href="https://rutube.ru/video/10aa46c55a1ee06421cac50d56e3d168/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63c19d4467ba7f28a736fd3c?share_to=link">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
