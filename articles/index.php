@@ -44,6 +44,16 @@
 				<a href="https://rutube.ru/video/dea53dc0ddf8f26ba3157e40e8bb645b/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/63cd73b260fd03712209f3ed?share_to=link">Дзен</a>	
 			</p>
+			<h4>Урок 5. Примитивные типы в 1С</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/BRfKfwVVciE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+				</iframe>
+			</p>
+			<p>
+				<a href="https://vk.com/video-217010365_456239026">VK</a>
+				<a href="https://rutube.ru/video/dea53dc0ddf8f26ba3157e40e8bb645b/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63cd73b260fd03712209f3ed?share_to=link">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
