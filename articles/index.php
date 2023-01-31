@@ -54,6 +54,16 @@
 				<a href="https://rutube.ru/video/61e3f56b4548a20a611f239ad3c9d0e5/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/63d5606ccbe4534dd47896d5?share_to=link">Дзен</a>	
 			</p>
+			<h4>Урок 6. Условия в 1С</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/jV1t24Co4yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+				</iframe>
+			</p>
+			<p>
+				<a href="https://vk.com/video-217010365_456239027">VK</a>
+				<a href="https://rutube.ru/video/61e3f56b4548a20a611f239ad3c9d0e5/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63d5606ccbe4534dd47896d5?share_to=link">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
