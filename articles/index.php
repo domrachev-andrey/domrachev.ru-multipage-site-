@@ -64,6 +64,16 @@
 				<a href="https://rutube.ru/video/f8868179354c89169bf744c3b0c9b206/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/63d9056fedfd6e0f0e7fcd54?share_to=link">Дзен</a>	
 			</p>
+			<h4>Урок 7. Массивы в 1С</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/T0xX3ni-_s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+				</iframe>
+			</p>
+			<p>
+				<a href="https://vk.com/video-217010365_456239027">VK</a>
+				<a href="https://rutube.ru/video/f8868179354c89169bf744c3b0c9b206/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63d9056fedfd6e0f0e7fcd54?share_to=link">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
