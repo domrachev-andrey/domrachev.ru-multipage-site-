@@ -84,6 +84,16 @@
 				<a href="https://rutube.ru/video/c20bbf884fc3fb9040cf7b36d55f2d52/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/63e7b7b83672ed09e3c79df7?share_to=link">Дзен</a>	
 			</p>
+			<h4>Урок 9. Циклы в 1С (часть 2)</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/a--O9heNQrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+				</iframe>
+			</p>
+			<p>
+				<a href="https://vk.com/video-217010365_456239029">VK</a>
+				<a href="https://rutube.ru/video/c20bbf884fc3fb9040cf7b36d55f2d52/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63e7b7b83672ed09e3c79df7?share_to=link">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
