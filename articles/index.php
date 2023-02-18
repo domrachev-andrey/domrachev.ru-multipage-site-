@@ -90,9 +90,9 @@
 				</iframe>
 			</p>
 			<p>
-				<a href="https://vk.com/video-217010365_456239029">VK</a>
-				<a href="https://rutube.ru/video/c20bbf884fc3fb9040cf7b36d55f2d52/">RuTube</a>
-				<a href="https://dzen.ru/video/watch/63e7b7b83672ed09e3c79df7?share_to=link">Дзен</a>	
+				<a href="https://vk.com/video-217010365_456239030">VK</a>
+				<a href="https://rutube.ru/video/522656612a11a3ea314b44b69e7c2de7/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63f0ba0b207f8f08e7a515ee?share_to=link">Дзен</a>	
 			</p>
 		</div>
 	</main>
