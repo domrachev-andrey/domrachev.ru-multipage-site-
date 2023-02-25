@@ -94,6 +94,16 @@
 				<a href="https://rutube.ru/video/522656612a11a3ea314b44b69e7c2de7/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/63f0ba0b207f8f08e7a515ee?share_to=link">Дзен</a>	
 			</p>
+			<h4>Урок 10. Процедуры и функции в 1С (часть 2)</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/0cipRCxJoyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+				</iframe>
+			</p>
+			<p>
+				<a href="https://vk.com/video-217010365_456239030">VK</a>
+				<a href="https://rutube.ru/video/522656612a11a3ea314b44b69e7c2de7/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/63f0ba0b207f8f08e7a515ee?share_to=link">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
