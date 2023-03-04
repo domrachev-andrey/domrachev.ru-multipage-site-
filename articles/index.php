@@ -109,7 +109,7 @@
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/9WILtwzIP4M" 						title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</p>
 			<p>
-				<a href="https://vk.com/video-217010365_456239031">VK</a>
+				<a href="https://vk.com/video-217010365_456239032">VK</a>
 				<a href="https://rutube.ru/video/bc296c9b9d310ff7481635bfdebb3563/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/63fa008b3b6ad87fb5057c17?share_to=link">Дзен</a>	
 			</p>
