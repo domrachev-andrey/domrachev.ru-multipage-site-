@@ -110,8 +110,8 @@
 			</p>
 			<p>
 				<a href="https://vk.com/video-217010365_456239032">VK</a>
-				<a href="https://rutube.ru/video/32a86c3c1117399d79bcf82596bdc3b1/">RuTube</a>
-				<a href="https://dzen.ru/video/watch/63fa008b3b6ad87fb5057c17?share_to=link">Дзен</a>	
+				<a href="https://rutube.ru/video/32a86c3c1117399d79bcf82596bdc3b1">RuTube</a>
+				<a href="https://dzen.ru/video/watch/64038caa514e2803c30ea930?share_to=link">Дзен</a>	
 			</p>
 		</div>
 	</main>
