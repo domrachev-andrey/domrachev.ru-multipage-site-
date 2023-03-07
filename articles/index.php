@@ -113,6 +113,14 @@
 				<a href="https://rutube.ru/video/32a86c3c1117399d79bcf82596bdc3b1">RuTube</a>
 				<a href="https://dzen.ru/video/watch/64038caa514e2803c30ea930?share_to=link">Дзен</a>	
 			</p>
+			<h4>Урок 12. Процедуры и функции в 1С (часть 3)</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/64cvASUA66E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			<p>
+				<a href="https://vk.com/video-217010365_456239033">VK</a>
+				<a href="https://rutube.ru/video/32a86c3c1117399d79bcf82596bdc3b1">RuTube</a>
+				<a href="https://dzen.ru/video/watch/64038caa514e2803c30ea930?share_to=link">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
