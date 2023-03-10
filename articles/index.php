@@ -127,7 +127,7 @@
 			<p>
 				<a href="https://vk.com/video-217010365_456239034">VK</a>
 				<a href="https://rutube.ru/video/756dab0a1a57c205c01f8bb6f4006f19/">RuTube</a>
-				<a href="https://dzen.ru/video/watch/64073b109949f4747db18a61?share_to=link">Дзен</a>	
+				<a href="https://dzen.ru/video/watch/640b5aa3352af862c463f8b9?share_to=link">Дзен</a>	
 			</p>
 		</div>
 	</main>
