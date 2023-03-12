@@ -1,5 +1,6 @@
 <?php
-	include '../top.php';
+	include '../top1.php';
+	include '../top2.php';
 ?>
 	<main class="container">
 		<div class="index-item">
