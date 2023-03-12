@@ -1,5 +1,6 @@
 <?php
 	include '../top1.php';
+	include 'key.php';
 	include '../top2.php';
 ?>
 	<main class="container">
