@@ -131,6 +131,14 @@
 				<a href="https://rutube.ru/video/756dab0a1a57c205c01f8bb6f4006f19/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/640b5aa3352af862c463f8b9?share_to=link">Дзен</a>	
 			</p>
+			<h4>Урок 14. Справочники в 1С (часть 1)</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/R3bmEikb_Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			<p>
+				<a href="https://vk.com/video-217010365_456239034">VK</a>
+				<a href="https://rutube.ru/video/756dab0a1a57c205c01f8bb6f4006f19/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/640b5aa3352af862c463f8b9?share_to=link">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
