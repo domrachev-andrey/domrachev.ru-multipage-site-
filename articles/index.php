@@ -123,7 +123,7 @@
 				<a href="https://rutube.ru/video/1dd318dae17fbb97443df899d710e086/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/64073b109949f4747db18a61?share_to=link">Дзен</a>	
 			</p>
-			<h4>Урок 13. Структура программного модуля в 1С (часть 3)</h4>
+			<h4>Урок 13. Структура программного модуля в 1С</h4>
 			<p>
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/XcbxANuMNio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			<p>
