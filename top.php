@@ -87,7 +87,16 @@
 						</div>
 					</li>
 					<li><a href="https://domrachev.ru/prices">Цены</a></li>
-					<li><a href="https://domrachev.ru/articles">Статьи</a></li>
+					<li><div class="dropdown">
+							<a href="#">Материалы</a>
+							<div class="dropdown-content">
+								<ul>
+									<li><a href="https://domrachev.ru/articles">Курс программирования 1С</a></li>
+									<li><a href="https://domrachev.ru/interview">Собеседование 1С</a></li>
+								</ul>	
+							</div>
+						</div>
+					</li>
 				</ul>
 			</nav>
 			<div class="main-navigation-callback">
