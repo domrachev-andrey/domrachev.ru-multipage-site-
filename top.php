@@ -93,6 +93,7 @@
 								<ul>
 									<li><a href="https://domrachev.ru/articles">Курс программирования 1С</a></li>
 									<li><a href="https://domrachev.ru/interview">Собеседование 1С</a></li>
+									<li><a href="https://domrachev.ru/lifehack">Лайфхаки 1С</a></li>
 								</ul>	
 							</div>
 						</div>
