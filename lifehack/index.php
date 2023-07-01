@@ -11,9 +11,9 @@
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/H5vtXjoM17s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</p> 
 			<p>
-				<a href="https://vk.com/video-217010365_456239039">VK</a>
-				<a href="https://rutube.ru/video/d0fb17c0a95e588386bb63cf8a297650/">RuTube</a>
-				<a href="https://dzen.ru/video/watch/6485f7eed940955d100fbeac?share_to=link">Дзен</a>	
+				<a href="https://vk.com/video-217010365_456239042">VK</a>
+				<a href="https://rutube.ru/video/7135111a98e692b907377f6b2ca62fe2/?r=wd">RuTube</a>
+				<a href="https://dzen.ru/video/watch/64a07be0939a601a8db6b754?share_to=link">Дзен</a>	
 			</p>
 		</div>
 	</main>
