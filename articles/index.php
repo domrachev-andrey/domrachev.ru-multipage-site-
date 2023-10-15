@@ -163,6 +163,15 @@
 				<a href="https://rutube.ru/video/644740a6d0ae7dc6c80c966a040fc2b7/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/64cfb5e62b27db0318bfa7d3">Дзен</a>	
 			</p>
+			<h4>Урок 18. Справочники в 1С (часть 5)</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/eLtGIChReJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			<p>
+				<a href="https://vk.com/video-217010365_456239043">VK</a>
+				<a href="https://rutube.ru/video/644740a6d0ae7dc6c80c966a040fc2b7/">RuTube</a>
+				<a href="https://dzen.ru/video/watch/64cfb5e62b27db0318bfa7d3">Дзен</a>	
+			</p>
+
 		</div>
 	</main>
 <?php
