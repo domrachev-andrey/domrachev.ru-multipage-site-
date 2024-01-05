@@ -179,6 +179,14 @@
 				<a href="https://rutube.ru/video/private/9eeda815d7df2cf392431cd2a60b968c/">RuTube</a>
 				<a href="https://dzen.ru/video/watch/65496103400a6057ac80d5d4">Дзен</a>	
 			</p>
+			<h4>Урок 20. Документы в 1С (часть 2)</h4>
+			<p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/1hJ1Fam6ycQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			<p>
+				<a href="https://vk.com/video-217010365_456239050">VK</a>
+				<a href="https://rutube.ru/video/1b2e44a1c423f54ed0b31af3f5061c2d">RuTube</a>
+				<a href="https://dzen.ru/video/watch/6597fafb4fb36f29990ddd27">Дзен</a>	
+			</p>
 		</div>
 	</main>
 <?php
