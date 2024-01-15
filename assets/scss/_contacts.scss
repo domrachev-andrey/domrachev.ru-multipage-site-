@@ -1,0 +1,24 @@
+.contacts {
+  .index-item:not(:last-child) {
+    margin-bottom: 50px;
+  }
+
+  h3 {
+    margin-bottom: 10px;
+  }
+
+  &__social {
+    display  : flex;
+    flex-wrap: wrap;
+
+    a:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+  a{
+    transition : all .4s ease;
+  }
+  a:hover{
+    color:$primary-color;
+  }
+}

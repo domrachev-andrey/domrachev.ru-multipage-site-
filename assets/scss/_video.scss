@@ -1,0 +1,41 @@
+.video {
+  h1 {
+    margin-bottom: 40px;
+  }
+  h3 {
+    margin-bottom: 15px;
+  }
+  &__wrapper {
+    display              : grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap                  : 50px;
+    align-items          : end;
+
+    @media only screen and (max-width: 768px) {
+      grid-template-columns: 1fr;
+      gap                  : 30px;
+    }
+  }
+
+  &__link {
+    display   : flex;
+    margin-top: 10px;
+
+    .link:not(:last-child) {
+      padding-right: 10px;
+      position     : relative;
+
+      &:before {
+        position   : absolute;
+        content    : "|";
+        right      : 2px;
+        font-weight: 400;
+      }
+      &:hover{
+        &:before{
+          color: $header-color;
+        }
+      }
+    }
+  }
+}

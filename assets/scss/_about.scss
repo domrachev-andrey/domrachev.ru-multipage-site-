@@ -1,0 +1,13 @@
+.about {
+  display        : flex;
+  align-items    : center;
+  justify-content: center;
+
+  span {
+    line-height: 150%;
+  }
+
+  .fa-check-square-o {
+    padding-right: 7px;
+  }
+}
