@@ -82,6 +82,7 @@
 						<ul class="dropdown-content">
 							<li><a href="https://domrachev.ru/implementation">Внедрение 1С</a></li>
 							<li><a href="https://domrachev.ru/its">1С ИТС</a></li>
+							<li><a href="https://1cbo.domrachev.ru/">Бухгалтерское сопровождение</a></li>
 							<li><a href="https://domrachev.ru/1cfresh">1С Фреш</a></li>
 							<li><a href="https://domrachev.ru/training">Обучение</a></li>
 							<li><a href="https://domrachev.ru/support">Поддержка</a></li>
