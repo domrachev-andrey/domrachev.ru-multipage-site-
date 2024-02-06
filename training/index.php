@@ -1,6 +1,8 @@
 <?php
 $pageTitle = "Обучение | Франчайзи Домрачев";
-	include '../top.php';
+include '../top1.php';
+include 'key.php';
+include '../top2.php';
 ?>
 	<main class="training">
 		<div class="container">
