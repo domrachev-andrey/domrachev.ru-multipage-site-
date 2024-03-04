@@ -33,14 +33,6 @@ footer {
   flex-shrink: 0;
 }
 
-.disable-scroll {
-  overflow: hidden;
-  height  : 100vh;
-  width   : 100%;
-  position: fixed;
-  left    : 0;
-  top     : 0;
-}
 
 button {
   outline: none;
@@ -79,12 +71,13 @@ h1,
 h2,
 h3,
 h4 {
-  color: $header-color;
+  color      : $header-color;
+  line-height: 100%;
 }
 
 h2,
 h1 {
-  font-size: 24px;
+  font-size    : 24px;
   margin-bottom: 20px;
 
   @media only screen and (max-width: 1024px) {
@@ -95,6 +88,7 @@ h1 {
     font-size: 20px;
   }
 }
+
 h3 {
   font-size: 22px;
 
@@ -106,6 +100,7 @@ h3 {
     font-size: 18px;
   }
 }
+
 p {
   padding-bottom: 10px;
 }
@@ -144,15 +139,17 @@ main {
   border          : 3px solid $primary-color;
   padding         : 10px 25px;
   font-size       : 12px;
+  letter-spacing  : 0.05em;
   font-weight     : bold;
   text-transform  : uppercase;
   cursor          : pointer;
   transition      : all .4s ease;
-}
 
-.button:hover {
-  color     : $main-color;
-  transition: all .4s ease;
+  &:hover {
+    color           : $primary-color;
+    background-color: transparent;
+    transition      : all .4s ease;
+  }
 }
 
 .modal {
@@ -279,8 +276,20 @@ ol li {
   }
 }
 
-.vacancies .fa-circle{
-  color: $primary-color;
+.vacancies .fa-circle {
+  color       : $primary-color;
   margin-right: 7px;
-  font-size: 12px;
+  font-size   : 12px;
+}
+
+.fancybox-overlay {
+  background-color: #ff0000;
+}
+
+.fancybox-close {
+  color: #00ff00;
+}
+
+.fancybox-close:hover {
+  color: #0000ff;
 }

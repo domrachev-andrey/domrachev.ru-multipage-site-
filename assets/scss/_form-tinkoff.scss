@@ -1,0 +1,46 @@
+.payform-tinkoff {
+  display              : -webkit-box;
+  display              : -ms-flexbox;
+  display              : flex;
+  margin               : 0 auto;
+  -webkit-box-orient   : vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction   : column;
+  flex-direction       : column;
+  max-width            : 90%;
+}
+
+.payform-tinkoff-row {
+  border-radius     : 4px;
+  margin-bottom:10px ;
+  -webkit-box-flex  : 1;
+  -ms-flex          : 1;
+  flex              : 1;
+  -webkit-transition: 0.3s;
+  -o-transition     : 0.3s;
+  transition        : 0.3s;
+  border            : 1px solid rgba($primary-color, 0.2);
+  padding           : 15px;
+  outline           : none;
+  font-size         : 15px;
+&:focus {
+  border          : 1px solid $primary-color;
+}
+}
+.payform-tinkoff-btn {
+  background-color: $primary-color;
+  color           : $white;
+  border-radius   : 5px;
+  border          : 3px solid $primary-color;
+  padding         : 10px 25px;
+  font-size       : 12px;
+  font-weight     : bold;
+  text-transform  : uppercase;
+  cursor          : pointer;
+  transition      : all .4s ease;
+
+  &:hover {
+    color     : $main-color;
+    transition: all .4s ease;
+  }
+}

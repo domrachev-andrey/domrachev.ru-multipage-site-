@@ -81,4 +81,5 @@
 		?>
 	</script>
 	<script src="/assets/js/index.js"></script>
+	<script src="/assets/js/modal.js"></script>
 	</body>

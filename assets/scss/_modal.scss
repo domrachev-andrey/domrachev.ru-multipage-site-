@@ -1,0 +1,61 @@
+
+.modals {
+  --transition-time      : 0.3s;
+  position               : fixed;
+  left                   : 0;
+  top                    : 0;
+  right                  : 0;
+  bottom                 : 0;
+  display                : flex;
+  align-items            : center;
+  justify-content        : center;
+  height                 : 100%;
+  width                  : 100%;
+  overflow-y             : auto;
+  background-color       : rgba($main-color, 0.3);
+  backdrop-filter        : blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  opacity                : 0;
+  visibility             : hidden;
+  transition             : opacity var(--transition-time), visibility var(--transition-time);
+  z-index                : 250;
+}
+
+.modals.is-open {
+  opacity   : 1;
+  visibility: visible;
+}
+
+.disable-scroll {
+  overflow: hidden;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.fadeInUp {
+  opacity   : 0;
+  transform : scale(0);
+  transition: opacity var(--transition-time), transform var(--transition-time);
+}
+
+.fadeInUp.animate-open {
+  opacity   : 1;
+  transform : scale(1);
+  transition: opacity var(--transition-time), transform var(--transition-time);
+}
+
+.form-modal {
+  display: none;
+  position        : relative;
+  background-color: $white;
+  max-width       : 800px;
+  width           : 100%;
+  padding         : 50px;
+}
+
+.form-modal.modal-open{
+  display: block;
+}
