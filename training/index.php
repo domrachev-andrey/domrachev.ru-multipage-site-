@@ -214,16 +214,16 @@ include '../top2.php';
             <div class="programm_wrapper">
                 <div class="programm__item">
                     <div class="programm__content">
-                        <div class="programm__title">Раздел 1. Знакомство с фронтендом<span>1</span></div>
+                        <div class="programm__title">Раздел 1. Знакомство с 1С<span>1</span></div>
                         <div class="programm__text">Проводим либо в&nbsp;формате интервью, либо посредством заполнения брифов.</div>
                     </div>
                     <div class="programm__content">
-                        <div class="programm__title">Раздел 2. Знакомство с фронтендом<span>2</span></div>
-                        <div class="programm__text">На практике знакомимся с базовыми технологиями веб-разработки и узнаём, как эти технологии работают. Размечаем страницу, оформляем её с помощью стилей. Пишем свой первый скрипт.</div>
+                        <div class="programm__title">Раздел 2. Знакомство с 1С<span>2</span></div>
+                        <div class="programm__text">На практике знакомимся с базовыми технологиями.</div>
                     </div>
                     <div class="programm__content programm__last">
-                        <div class="programm__title">Раздел 3. Знакомство с фронтендом<span>3</span></div>
-                        <div class="programm__text">На практике знакомимся с базовыми технологиями веб-разработки и узнаём, как эти технологии работают. Размечаем страницу, оформляем её с помощью стилей. Пишем свой первый скрипт.</div>
+                        <div class="programm__title">Раздел 3. Знакомство с 1С<span>3</span></div>
+                        <div class="programm__text">На практике знакомимся с базовыми технологиями.</div>
                     </div>
                 </div>
             </div>
@@ -237,7 +237,7 @@ include '../top2.php';
             </div>
             <h3>5000&nbsp;₽</h3>
             <ul>
-                <li><i class="fa fa-check" aria-hidden="true"></i>Обучение на платформе HTML Academy</li>
+                <li><i class="fa fa-check" aria-hidden="true"></i>Обучение на платформе</li>
                 <li><i class="fa fa-check" aria-hidden="true"></i>Тренажёры, интерактивные демонстрации, автопроверки учебного проекта</li>
             </ul>
 
