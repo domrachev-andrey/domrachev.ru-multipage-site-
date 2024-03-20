@@ -57,6 +57,7 @@ _tmr.push({id: "3494724", type: "pageView", start: (new Date()).getTime(), pid: 
 </script>
 <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3494724;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
 <!-- /Top.Mail.Ru counter -->
+<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/js/api/openapi.js?169',t.onload=function(){VK.Retargeting.Init("VK-RTRG-1862244-eMFsw"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1862244-eMFsw" style="position:fixed; left:-999px;" alt=""/></noscript>
 	<title><?php echo isset($pageTitle) ? $pageTitle : '1С Франчайзи Домрачев консалтинг'; ?></title>
 	</head>
 

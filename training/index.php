@@ -290,9 +290,9 @@ include '../top2.php';
                     <input class="payform-tinkoff-row" type="hidden" name="frame" value="false">
                     <input class="payform-tinkoff-row" type="hidden" name="language" value="ru">
                     <input class="payform-tinkoff-row" type="hidden" name="receipt" value="">
-                    <input class="payform-tinkoff-row" type="text" placeholder="5000" name="amount" required>
+                    <input class="payform-tinkoff-row" type="text" value = "5000" placeholder="Сумма" name="amount" required>
                     <input class="payform-tinkoff-row" type="hidden" placeholder="Номер заказа" name="order">
-                    <input class="payform-tinkoff-row" type="text" placeholder="Оплата курса Старт в программировании 1С" name="description">
+                    <input class="payform-tinkoff-row" type="text" value="Оплата курса Старт в программировании 1С" name="description">
                     <input class="payform-tinkoff-row" type="text" placeholder="ФИО плательщика" name="name">
                     <input class="payform-tinkoff-row" type="email" placeholder="E-mail" name="email">
                     <input class="payform-tinkoff-row" type="tel" placeholder="Контактный телефон" name="phone">
