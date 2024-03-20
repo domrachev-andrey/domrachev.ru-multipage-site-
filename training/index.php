@@ -214,16 +214,52 @@ include '../top2.php';
             <div class="programm_wrapper">
                 <div class="programm__item">
                     <div class="programm__content">
-                        <div class="programm__title">Раздел 1. Знакомство с 1С<span>1</span></div>
-                        <div class="programm__text">Проводим либо в&nbsp;формате интервью, либо посредством заполнения брифов.</div>
+                        <div class="programm__title">Раздел 1. Введение в 1С<span>1</span></div>
+                        <div class="programm__text">Установка учебной версии 1С. Создание информационной базы.</div>
                     </div>
                     <div class="programm__content">
-                        <div class="programm__title">Раздел 2. Знакомство с 1С<span>2</span></div>
-                        <div class="programm__text">На практике знакомимся с базовыми технологиями.</div>
+                        <div class="programm__title">Раздел 2. Язык 1С<span>2</span></div>
+                        <div class="programm__text">Примитивные типы данных, работа с примитивными типами данных.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 3. Язык 1С<span>3</span></div>
+                        <div class="programm__text">Конструкции языка 1С: условия, циклы, процедуры, функции.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 4. Язык 1С<span>4</span></div>
+                        <div class="programm__text">Конструкции языка 1С: условия, циклы, процедуры, функции.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 5. Язык 1С<span>5</span></div>
+                        <div class="programm__text">Структурные типы данных.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 6. Объекты конфигурации: Справочники<span>6</span></div>
+                        <div class="programm__text">Объекты конфигурации: Справочники.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 7. Объекты конфигурации: Документы<span>7</span></div>
+                        <div class="programm__text">Объекты конфигурации: Документы.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 8. Объекты конфигурации: Регистры накопления<span>8</span></div>
+                        <div class="programm__text">Объекты конфигурации: Регистры накопления.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 9. Объекты конфигурации: Отчеты<span>9</span></div>
+                        <div class="programm__text">Объекты конфигурации: Отчеты.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 10. Объекты конфигурации: Регистры сведений<span>10</span></div>
+                        <div class="programm__text">Объекты конфигурации: Регистры сведений.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 11. Система компоновки данных (СКД)<span>11</span></div>
+                        <div class="programm__text">Система компоновки данных (СКД).</div>
                     </div>
                     <div class="programm__content programm__last">
-                        <div class="programm__title">Раздел 3. Знакомство с 1С<span>3</span></div>
-                        <div class="programm__text">На практике знакомимся с базовыми технологиями.</div>
+                        <div class="programm__title">Раздел 12. Расширения в 1С<span>12</span></div>
+                        <div class="programm__text">На практике знакомимся с расширениями в 1С.</div>
                     </div>
                 </div>
             </div>
