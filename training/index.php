@@ -271,10 +271,15 @@ include '../top2.php';
             <div class="sign-up__description">
                 Серьёзное обучение с&nbsp;постоянным взаимодействием с&nbsp;действующими разработчиками. Первый шаг на&nbsp;пути к&nbsp;настоящему профессионализму.
             </div>
-            <h3>5000&nbsp;₽</h3>
+            <h3>10000&nbsp;₽</h3>
+            <div class="sign-up__description">
+                При оплате до 31.03.24 - скидка 50% и весь курс за 5000&nbsp;₽.
+            </div>
             <ul>
-                <li><i class="fa fa-check" aria-hidden="true"></i>Обучение на платформе</li>
-                <li><i class="fa fa-check" aria-hidden="true"></i>Тренажёры, интерактивные демонстрации, автопроверки учебного проекта</li>
+                <li><i class="fa fa-check" aria-hidden="true"></i>Обучение онлайн</li>
+                <li><i class="fa fa-check" aria-hidden="true"></i>Видеозаписи уроков</li>
+                <li><i class="fa fa-check" aria-hidden="true"></i>Проверка домашек наставником</li>
+                <li><i class="fa fa-check" aria-hidden="true"></i>Чат для общения с наставником и студентами</li>
             </ul>
 
             <button  data-animation="fadeInUp"  data-speed="700" data-path="forms-popup" class="button button-modal">Записаться</button>
@@ -302,6 +307,7 @@ include '../top2.php';
                 <script type="text/javascript">
                     const TPF = document.getElementById("payform-tinkoff");
 
+
                     TPF.addEventListener("submit", function(e) {
                         e.preventDefault();
                         const {
@@ -312,9 +318,10 @@ include '../top2.php';
                             receipt
                         } = TPF;
 
-                        if (receipt) {
+	                if (receipt) {
                             if (!email.value && !phone.value)
                                 return alert("Поле E-mail или Phone не должно быть пустым");
+				
 
                             TPF.receipt.value = JSON.stringify({
                                 "EmailCompany": "mail@mail.com",
@@ -333,11 +340,10 @@ include '../top2.php';
                         pay(TPF);
                     })
                 </script>
+
                 <button class="popup-close close" title="Закрыть"><i class="fa fa-times" aria-hidden="true"></i></button>
             </div>
     </div>
-
-
 
 </main>
 <?php
