@@ -39,3 +39,7 @@ document.addEventListener('DOMContentLoaded',function () {
     document.body.classList.toggle("disable-scroll");
   });
 });
+const goBackButton = document.getElementById('goBackButton');
+goBackButton.addEventListener('click', function() {
+  window.history.back();
+});

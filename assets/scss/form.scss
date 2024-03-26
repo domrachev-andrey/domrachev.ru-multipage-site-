@@ -1,0 +1,260 @@
+.feedback {
+  &__inner {
+    position       : relative;
+    justify-content: center;
+    align-items    : center;
+    width          : 100%;
+    outline        : none;
+    border-radius  : 2px;
+  }
+
+  &__label {
+    width: 35%;
+
+    @media screen and (max-width: 800px) {
+      width: 100%;
+    }
+  }
+
+  &__input {
+    width: 100%;
+  }
+
+  &__checkbox {
+    position: relative;
+    display : flex;
+    gap     : 6px;
+
+    @media (min-width: 768px) {
+      margin     : 0 0 15px 4px;
+      width      : 100%;
+      align-items: center;
+    }
+
+    span {
+      font-size  : 14px;
+      line-height: 120%;
+      font-weight: 400;
+
+      &:last-child {
+        margin-left: 10px;
+      }
+    }
+  }
+
+  &__link {
+    font-style   : italic;
+    border-bottom: 1px solid currentColor;
+    cursor       : pointer;
+    transition   : all 0.4s ease;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+.feedback-details {
+  &__input {
+    position: absolute;
+    width   : 0;
+    height  : 0;
+    opacity : 0;
+    z-index : -1;
+  }
+
+  &__span {
+    margin-top    : 2px;
+    position      : relative;
+    display       : inline-block;
+    width         : 16px;
+    height        : 16px;
+    outline       : 1px solid $main-color;
+    vertical-align: text-top;
+
+    &:before {
+      content   : "✓";
+      display   : inline-block;
+      position  : absolute;
+      left      : 50%;
+      top       : 53%;
+      color     : $main-color;
+      transform : translate(-50%, -50%) scale(0);
+      transition: all 0.3s ease;
+      z-index   : 2;
+    }
+  }
+}
+
+.feedback-details__input:checked+.feedback-details__span {
+  background-color: $white;
+}
+
+.feedback-details__input:checked+.feedback-details__span::before {
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.tinkoff-message {
+  margin          : 15px 0;
+  max-width       : 100%;
+  width           : 100%;
+  position        : absolute;
+  top             : 0;
+  bottom          : 0;
+  left            : 50%;
+  transform       : translate(-50%, 0%);
+  opacity         : 0;
+  overflow        : hidden;
+  background-color: $white;
+  z-index         : -1;
+  transition      : all 0.5s ease;
+
+  @media (max-width: 1024px) {
+    max-width: 100%;
+  }
+
+  &.active {
+    opacity   : 1;
+    overflow  : visible;
+    z-index   : 3;
+    transition: all 0.5s ease;
+  }
+
+  &__inner {
+    display       : flex;
+    flex-direction: column;
+    align-items   : center;
+    position      : absolute;
+    top           : 40%;
+    left          : 50%;
+    transform     : translate(-50%, -50%);
+    text-align    : center;
+  }
+
+  &__text {
+    font-size    : 22px;
+    margin-bottom: 25px;
+  }
+}
+
+.error {
+  visibility: visible;
+  opacity   : 1;
+  transition: opacity 0.4s ease;
+}
+
+.error-popup {
+  color: $main-color;
+}
+
+.message-success {
+  color: $primary-color;
+}
+
+.error-label {
+  position  : absolute;
+  bottom    : 5px;
+  right     : 5px;
+  font-size : 12px;
+  color     : $red;
+  visibility: hidden;
+  opacity   : 0;
+  transition: opacity 0.4s ease;
+}
+
+.error-label-checkbox {
+  position  : absolute;
+  bottom    : 40px;
+  left      : 50px;
+  font-size : 14px;
+  color     : $red;
+  visibility: hidden;
+  opacity   : 0;
+  transition: opacity 0.4s ease;
+
+  @media only screen and (max-width: 1024px) {
+    bottom: 20px;
+    left  : 20px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    left: 10px;
+  }
+}
+
+.error {
+  visibility: visible;
+  opacity   : 1;
+  transition: opacity 0.4s ease;
+}
+
+.hidden {
+  opacity   : 0;
+  overflow  : hidden;
+  transition: all 0.5s ease;
+}
+
+.loader {
+  transform    : rotateZ(45deg);
+  perspective  : 1000px;
+  border-radius: 50%;
+  width        : 56px;
+  height       : 56px;
+  color        : $yellow;
+}
+
+.loader:before,
+.loader:after {
+  content      : '';
+  display      : block;
+  position     : absolute;
+  top          : 20px;
+  left         : 0;
+  width        : inherit;
+  height       : inherit;
+  border-radius: 50%;
+  transform    : rotateX(70deg);
+  animation    : 1s spin linear infinite;
+}
+
+.loader:after {
+  color          : $primary-color;
+  transform      : rotateY(70deg);
+  animation-delay: .4s;
+}
+
+@keyframes spin {
+
+  0%,
+  100% {
+    box-shadow: .2em 0px 0 0px currentcolor;
+  }
+
+  12% {
+    box-shadow: .2em .2em 0 0 currentcolor;
+  }
+
+  25% {
+    box-shadow: 0 .2em 0 0px currentcolor;
+  }
+
+  37% {
+    box-shadow: -.2em .2em 0 0 currentcolor;
+  }
+
+  50% {
+    box-shadow: -.2em 0 0 0 currentcolor;
+  }
+
+  62% {
+    box-shadow: -.2em -.2em 0 0 currentcolor;
+  }
+
+  75% {
+    box-shadow: 0px -.2em 0 0 currentcolor;
+  }
+
+  87% {
+    box-shadow: .2em -.2em 0 0 currentcolor;
+  }
+}

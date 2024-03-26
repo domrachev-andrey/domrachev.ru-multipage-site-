@@ -116,13 +116,13 @@ _tmr.push({id: "3494724", type: "pageView", start: (new Date()).getTime(), pid: 
 					</li>
 					<li class="main-navigation-callback-mob">
 						<a href="tel:+7(499)793-69-71">+7(499)793-69-71</a>
-						<button class="button" onclick="document.getElementById('id01').style.display='flex'">Заказать
-							звонок</button>
+						<button class="button button-modal"  data-animation="fadeInUp"  data-speed="700" data-path="forms-feedback" >Заказать
+						звонок</button>
 					</li>
 				</ul>
 				<div class="main-navigation-callback">
 					<a href="tel:+7(499)793-69-71">+7(499)793-69-71</a>
-					<button class="button" onclick="document.getElementById('id01').style.display='flex'">Заказать
+					<button class="button button-modal"  data-animation="fadeInUp"  data-speed="700" data-path="forms-feedback" >Заказать
 						звонок</button>
 				</div>
 			</div>

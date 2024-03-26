@@ -7,7 +7,6 @@
   -webkit-box-direction: normal;
   -ms-flex-direction   : column;
   flex-direction       : column;
-  max-width            : 90%;
 }
 
 .payform-tinkoff-row {
@@ -24,7 +23,7 @@
   outline           : none;
   font-size         : 15px;
 &:focus {
-  border          : 1px solid $primary-color;
+  border-color          : $primary-color;
 }
 }
 .payform-tinkoff-btn {
