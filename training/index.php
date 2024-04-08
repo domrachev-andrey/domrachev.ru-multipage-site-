@@ -227,30 +227,30 @@ include '../top2.php';
                     </div>
                     <div class="programm__content">
                         <div class="programm__title">Раздел 4. Язык 1С<span>4</span></div>
-                        <div class="programm__text">Конструкции языка 1С: условия, циклы, процедуры, функции.</div>
-                    </div>
-                    <div class="programm__content">
-                        <div class="programm__title">Раздел 5. Язык 1С<span>5</span></div>
                         <div class="programm__text">Структурные типы данных.</div>
                     </div>
                     <div class="programm__content">
-                        <div class="programm__title">Раздел 6. Объекты конфигурации: Справочники<span>6</span></div>
+                        <div class="programm__title">Раздел 5. Объекты конфигурации: Справочники<span>5</span></div>
                         <div class="programm__text">Объекты конфигурации: Справочники.</div>
                     </div>
                     <div class="programm__content">
-                        <div class="programm__title">Раздел 7. Объекты конфигурации: Документы<span>7</span></div>
+                        <div class="programm__title">Раздел 6. Объекты конфигурации: Документы<span>6</span></div>
                         <div class="programm__text">Объекты конфигурации: Документы.</div>
                     </div>
                     <div class="programm__content">
-                        <div class="programm__title">Раздел 8. Объекты конфигурации: Регистры накопления<span>8</span></div>
+                        <div class="programm__title">Раздел 7. Объекты конфигурации: Регистры накопления<span>7</span></div>
                         <div class="programm__text">Объекты конфигурации: Регистры накопления.</div>
                     </div>
                     <div class="programm__content">
-                        <div class="programm__title">Раздел 9. Объекты конфигурации: Отчеты<span>9</span></div>
+                        <div class="programm__title">Раздел 8. Объекты конфигурации: Отчеты<span>8</span></div>
                         <div class="programm__text">Объекты конфигурации: Отчеты.</div>
                     </div>
                     <div class="programm__content">
-                        <div class="programm__title">Раздел 10. Объекты конфигурации: Регистры сведений<span>10</span></div>
+                        <div class="programm__title">Раздел 9. Объекты конфигурации: Регистры сведений<span>9</span></div>
+                        <div class="programm__text">Объекты конфигурации: Регистры сведений.</div>
+                    </div>
+                    <div class="programm__content">
+                        <div class="programm__title">Раздел 10. Язык 1С. Язык запросов<span>10</span></div>
                         <div class="programm__text">Объекты конфигурации: Регистры сведений.</div>
                     </div>
                     <div class="programm__content">
@@ -271,12 +271,9 @@ include '../top2.php';
             <div class="sign-up__description">
                 Серьёзное обучение с&nbsp;постоянным взаимодействием с&nbsp;действующими разработчиками. Первый шаг на&nbsp;пути к&nbsp;настоящему профессионализму.
             </div>
-            <h3>10000&nbsp;₽</h3>
+            <h3>10 000&nbsp;₽</h3>
             <div class="sign-up__description">
-                При оплате до 31.03.24 - скидка 50% и весь курс за 5000&nbsp;₽.
-            </div>
-            <div class="sign-up__description">
-                Старт обучения 15.04.24 (расписание: понедельник, четверг 20:00 - 22:00 мск).
+                При оплате до 30.04.24 - скидка 50% и весь курс за 5000&nbsp;₽.
             </div>
             <ul>
                 <li><i class="fa fa-check" aria-hidden="true"></i>Обучение онлайн</li>

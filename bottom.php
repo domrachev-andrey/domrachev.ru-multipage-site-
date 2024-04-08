@@ -62,7 +62,7 @@
 				</div>
 				<input class="payform-tinkoff-row" type="hidden" placeholder="Номер заказа" name="order">
 				<div class="feedback__inner">
-					<input class="feedback__input req payform-tinkoff-row" type="text" value="Оплата курса Старт в программировании 1С" name="description">
+					<input class="feedback__input req payform-tinkoff-row" type="text" value="Курс <Старт в программировании 1C>" name="description">
 					<span class="error-label"></span>
 				</div>
 				<div class="feedback__inner">
